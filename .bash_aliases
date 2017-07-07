@@ -28,3 +28,4 @@ alias cfrontend='cd /vagrant/portal/src/CF/Bundle/WebsiteBundle/Resources/fronte
 alias bs='cd ~/projects/bildspielt2.0/'
 alias to='cd ~/projects/saturn-turnon/'
 alias dm='cd ~/projects/dtag-dm/'
+alias otto='cd ~/otto-testcenter/'
