@@ -22,6 +22,7 @@ alias cedma='fixmem;ddebug;cd /vagrant/portal;composer update cf-portal-bundles/
 alias cv='cd /vagrant'
 alias gcp='git checkout develop;git pull'
 alias gm='git merge develop'
+alias gs='git status'
 alias vln='cd /var/log/nginx/'
 alias en='cd /etc/nginx/'
 alias cwp='cd ./cms/wp-content/plugins/'
