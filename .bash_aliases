@@ -20,6 +20,7 @@ alias fixmembigger='sudo /bin/dd if=/dev/zero of=/var/swap.1 bs=4G count=4;sudo 
 alias ccms='fixmem;ddebug;cd /vagrant/portal;composer update cf-portal-bundles/cmsBundle;edebug' 
 alias cedma='fixmem;ddebug;cd /vagrant/portal;composer update cf-portal-bundles/edmaBundle;edebug' 
 alias cv='cd /vagrant'
+alias cvp='cd /vagrant/portal'
 alias gcp='git checkout develop;git pull'
 alias gm='git merge develop'
 alias gs='git status'
