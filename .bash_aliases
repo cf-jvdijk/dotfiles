@@ -38,3 +38,4 @@ alias mnt='cd /vagrant/portal/web/media;sudo mount -o bind /vagrant/cms/web/file
 alias where='pwd'
 alias cpp='cd ~/projects/cf-portal-bundles/'
 alias aokrein='cd /vagrant/cms/web;typo3/cli_dispatch.phpsh extbase elasticsearch:reindexes;cd /vagrant'
+alias cfh='cd ~/projects/cf-website'
