@@ -43,4 +43,4 @@ alias aokrein='cd /vagrant/cms/web;typo3/cli_dispatch.phpsh extbase elasticsearc
 alias cfh='cd ~/projects/cf-website'
 alias ccc='cd /vagrant/configs/commands/'
 alias ena='cd /etc/nginx/sites-available/'
-alias cnl='cd /var/logs/nginx/'
+alias cnl='cd /var/log/nginx/'
