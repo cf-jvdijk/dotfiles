@@ -54,3 +54,4 @@ alias edebugn='sudo php5enmod xdebug;sudo service php5.6-fpm restart;sudo servic
 alias ddebugn='sudo php5dismod xdebug;sudo service php5.6-fpm restart;sudo service nginx restart'
 alias deployn='cd /vagrant; ddebugn; sh deployPortal.sh; edebugn'
 alias ess='cd ~/projects/esPluginHead/elasticsearch-head; npm run start'
+alias scc='cd /vagrant/portal;php bin/console cache:clear;cd -'
