@@ -22,6 +22,7 @@ alias ccms='fixmem;ddebug;cd /vagrant/portal;composer update cf-portal-bundles/c
 alias cedma='fixmem;ddebug;cd /vagrant/portal;composer update cf-portal-bundles/edmaBundle;edebug' 
 alias cv='cd /vagrant'
 alias cvp='cd /vagrant/portal'
+alias cvf='cd /vagrant/frontend'
 alias gcp='git checkout develop;git pull'
 alias gcpm='git checkout master;git pull'
 alias gm='git merge develop'
