@@ -62,3 +62,6 @@ alias dump='cd /vagrant/portal;php bin/console doctrine:schema:update --dump-sql
 alias force='cd /vagrant/portal;php bin/console doctrine:schema:update --force;cd -'
 alias et='cd ~/projects/cf-einfachtierisch'
 alias rf='redis-cli FLUSHALL'
+alias nc='npm run build:css'
+alias nj='npm run build:js'
+alias na='npm run build:deploy'
